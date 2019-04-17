@@ -4,8 +4,7 @@ This section contains the data required to complete the D4M Lab in the Advanced 
 
 ## Requirements
 1. Matlab or Octave
-2. D4M for Matlab/Octave: http://d4m.mit.edu/download
-   1. Does not require D4M Database capabilities
+2. D4M for Matlab/Octave: http://d4m.mit.edu/download (Does not require D4M Database capabilities)
 
 ## Setup
 1. Download and unzip the latest D4M Release

@@ -1,6 +1,6 @@
 # D4M
 
-This section contains the data required to complete the D4M Lab in the Advanced Database Technologies LLx course. If you are running on the MIT Supercloud or an LLSC System, there is no setup required to run the lab. The following sections go over requirements and setup if you are going to run the lab on your own system.
+This section contains the data required to complete the D4M Lab in the Advanced Database Technologies LLx course. **If you are running on the MIT Supercloud or an LLSC System, there is no setup required to run the lab.** The following sections go over requirements and setup if you are going to run the lab on your own system.
 
 ## Requirements
 1. Matlab or Octave
